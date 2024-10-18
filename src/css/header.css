@@ -42,3 +42,9 @@
 .nav-link.active::after {
   background: #747bff;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
